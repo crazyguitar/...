@@ -26,9 +26,7 @@ Plug 'dracula/vim', { 'as': 'dracula' }
 Plug 'itchyny/lightline.vim'
 Plug 'vim-scripts/taglist.vim'
 Plug 'mileszs/ack.vim'
-Plug 'posva/vim-vue'
 Plug 'vim-syntastic/syntastic'
-Plug 'junegunn/vim-easy-align'
 
 " Any valid git URL is allowed
 Plug 'https://github.com/junegunn/vim-github-dashboard.git'
